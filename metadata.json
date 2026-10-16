@@ -1,0 +1,6 @@
+{
+  "name": "Veri Yapıları ve Algoritmalar - Proje 1 (Enes Öztürk)",
+  "description": "Enes Öztürk imzalı Insertion Sort ve Selection Sort aşamaları, Big-O gösterimi, Time Complexity analizi ve interaktif algoritma görselleştirici.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
